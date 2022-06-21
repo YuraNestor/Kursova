@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddEdExcursion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddOrEditOther.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDrivers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormZvit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
